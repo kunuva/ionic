@@ -4,7 +4,6 @@ import { NavController, NavParams } from 'ionic-angular';
 
 import { ItemDetailsPage } from '../item-details/item-details';
 
-import { ActionSheetController } from 'ionic-angular';
 
 import { LoadingController } from 'ionic-angular';
 
